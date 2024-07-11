@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: git-challenge
+  annotations:
+    github.com/project-slug: GeorgeMP388/git-challenge
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
